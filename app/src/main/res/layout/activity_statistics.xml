@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.sd034342.autoscrolladds.activity.StatisticsActivity">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/statistics_table">
+        <TableRow>
+            <TextView
+                android:text="ID"
+                android:paddingRight="7dp" />
+            <TextView
+                android:text="Views"
+                android:paddingRight="7dp" />
+            <TextView
+                android:text="YesNum"
+                android:paddingRight="7dp" />
+            <TextView
+                android:text="AvgTimYes"
+                android:paddingRight="7dp" />
+            <TextView
+                android:text="NoNum"
+                android:paddingRight="7dp" />
+            <TextView
+                android:text="AvgTimNo"
+                android:paddingRight="7dp" />
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

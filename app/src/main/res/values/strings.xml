@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoScrollAdds</string>
+    <string name="auto_scroll_view_pager_inner">ViewPager in ViewPager Demo</string>
+</resources>
