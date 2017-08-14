@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Add> dataOne = new ArrayList<>();
         Add image = new ImageAdd("1", R.drawable.coke_ad);
         dataOne.add(image);
-        Add video = new VideoAdd("2","rtsp://r2---sn-q4flrnel.googlevideo.com/Cj0LENy73wIaNAkfv11iNBZsJBMYDSANFC2CYJBZMOCoAUIASARgltWj-dSezZ5ZigELZ05VYWxvYWhKT1EM/97878A5367F2D69470D827B53C8033CA31600778.5F0E4C03B082E08AF7B754508FC32A094853EC8C/yt6/1/video.3gp");
+        Add video = new VideoAdd("2","rtsp://r2---sn-vgqsrnes.googlevideo.com/Cj0LENy73wIaNAkfv11iNBZsJBMYDSANFC1HFpJZMOCoAUIASARgltWj-dSezZ5ZigELZ05VYWxvYWhKT1EM/AECFD7AAB00C341D1F53A88FAF318BB28E42E146.A7451B240B8AEF7BE199EECCDFEB7D639E2E692A/yt6/1/video.3gp");
         dataOne.add(video);
         Add html = new HtmlAdd("3", "file:///android_asset/sampleOne.html");
         dataOne.add(html);
@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Add> dataTwo = new ArrayList<>();
         Add image1 = new ImageAdd("4", R.drawable.pepsi);
         dataTwo.add(image1);
-        Add video1 = new VideoAdd("5","rtsp://r1---sn-q4flrn7r.googlevideo.com/Cj0LENy73wIaNAkDyTuINTz7nRMYDSANFC3UYJBZMOCoAUIASARgltWj-dSezZ5ZigELZ05VYWxvYWhKT1EM/8F74ADB1B24980F70BA3FE67E01460DEC5F11AFF.42DD148EFBBD1BA9B154AFDFD6C1B44AF33E0E1A/yt6/1/video.3gp");
+        Add video1 = new VideoAdd("5","rtsp://r16---sn-vgqs7nek.googlevideo.com/Cj0LENy73wIaNAlbPag5jOVcPRMYDSANFC2YFZJZMOCoAUIASARgltWj-dSezZ5ZigELZ05VYWxvYWhKT1EM/CD07138A81C2215E01241E825748A7DCCD3F5198.393F84A9BC8F54FD286EF4F3045C4FD55E8089C5/yt6/1/video.3gp");
         dataTwo.add(video1);
         Add html1 = new HtmlAdd("6", "file:///android_asset/sample.html");
         dataTwo.add(html1);
